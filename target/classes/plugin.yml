@@ -1,0 +1,14 @@
+name: Mineisland
+version: 0.1
+main: nl.jansneeuw.mineisland.Mineisland
+authors: [JanSneeuw]
+description: Mineisland plugin.
+website: jansneeuw.nl
+depend:
+  - WorldGuard
+  - WorldEdit
+commands:
+  Mineisland:
+    description: 'Add a mine region'
+    permission: 'mineisland.commands'
+    usage: '/mineisland define <region>'

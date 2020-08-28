@@ -1,0 +1,11 @@
+regions: []
+respawn:
+  coal_ore: 60
+  iron_ore: 90
+  gold_ore: 120
+  lapis_ore: 120
+  redstone_ore: 120
+  diamond_ore: 300
+  emerald_ore: 300
+block_unwanted_break: false
+block_unwanted_break_message: '&4&lHey! &r&7Sorry, je kan alleen ores slopen hier!'
